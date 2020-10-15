@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct Nombre_MystereApp: App {
+
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
     }
 }
+
