@@ -76,19 +76,11 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		F99ABFB025345E22009FBCD1 /* components */ = {
-			isa = PBXGroup;
-			children = (
-				F97E32512525D4C6004287B6 /* ProposedNumberView.swift */,
-			);
-			path = components;
-			sourceTree = "<group>";
-		};
 		F9AC9F06252DEB9B0045E4E2 /* ui */ = {
 			isa = PBXGroup;
 			children = (
-				F99ABFB025345E22009FBCD1 /* components */,
 				F97E324E2525CE57004287B6 /* StartView.swift */,
+				F97E32512525D4C6004287B6 /* ProposedNumberView.swift */,
 				F979664A252E06B600F527AA /* ContentView.swift */,
 			);
 			path = ui;
